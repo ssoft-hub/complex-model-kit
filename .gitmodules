@@ -1,0 +1,8 @@
+[submodule "qmake-features"]
+	path = project/qmake/features
+	url = git@github.com:ssoft-hub/qmake-features.git
+	branch = master
+[submodule "model-kit"]
+	path = src/library/ModelKit
+	url = git@github.com:ssoft-hub/model-kit.git
+	branch = master
