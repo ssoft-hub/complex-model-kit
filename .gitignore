@@ -51,6 +51,7 @@
 # Qt-es
 /.qmake.cache
 /.depends.cache
+/.depends.cache.pri
 /.qmake.stash
 *.pro.user
 *.pro.user.*
